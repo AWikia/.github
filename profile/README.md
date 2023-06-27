@@ -1,5 +1,4 @@
 # A Wikia Techno Services
-![Banner_Blue](https://github.com/AWikia/.github/assets/30199227/4adb586f-8b74-4ff5-b5b5-eb6b5bd2d3a6)
 Experimenting with newer Technologies over the time. Since its GitHub foundation in 2018, we're constantly exploring new things to change your life. From the XP Version of Q.Qore until the CPE Language, you'll find anything you want.
 
 ## What we develop actively
